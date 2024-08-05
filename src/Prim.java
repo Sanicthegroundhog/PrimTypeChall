@@ -4,7 +4,8 @@ public class Prim{
         byte myByte = 9;
         short myShort = 8;
         int myInt = 7;
-        int myLong = 24327870832378780243L;
+        int myLong = 80000-5 * (myByte + myShort + myInt);
+
 
 
     }
